@@ -13,6 +13,7 @@
 /web/assets/
 /web/fonts/
 /dist/
+/web/AdminLTE-2.1.1/
 composer.lock
 bin
 *Thumbs.db
